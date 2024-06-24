@@ -9,3 +9,4 @@ Testing how mirroring into gitlab functions from a CICD Perspective
 * Trigger only removed
 * 1
 * 2
+* Trigger Events Enabled
