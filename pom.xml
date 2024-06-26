@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.drajer.ecr.anonymizer</groupId>
 	<artifactId>test-anonymizer-lambda</artifactId>
-	<version>9.0.8</version>
+	<version>9.0.9</version>
 	<packaging>jar</packaging>
     <properties>
         <fhir.version>5.4.0</fhir.version>
